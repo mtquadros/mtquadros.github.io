@@ -1,14 +1,15 @@
 # Distributed Group System
-The goal of this project is build a module that implements a group of hosts
+The goal of this project is to build a module that implements a group of hosts
 in the same LAN (Local Area Network) that provide an API for programming
 distributed applications with crash fault tolerance.
 
 ## About the code
-The code is unlicensed and it is in a private repository, and available just for
-job interviews of the owner.
+The code is in C++ language.
+The code is private and available just for job interviews of the owner.
 
 ## About demonstrations
-I will try to maintain this page updated with the new features
+I will try to maintain this page updated with the new features and
+try to show some screens demonstrations.
 
 ## Notes: Some features until the moment,
 1. Any host in same local network can join the distributed group of hosts;
