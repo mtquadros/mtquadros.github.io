@@ -17,9 +17,10 @@ try to show some screens demonstrations.
 3. If the member leaves the group it "forget" all other members and vice versa. 
 
 ## Work in progress,
-1. Improve the information on the screen for debugging and demonstration of the
+1. Fix the leader election
+2. Improve the information on the screen for debugging and demonstration of the
 features;
-2. Fix bugs;
-3. Implement new distributed building block features;
-4. Implement the fault tolerance to crash failures;
-5. Implement a interface for applications.
+3. Fix bugs;
+4. Implement new distributed building block features;
+5. Implement the fault tolerance to crash failures;
+6. Implement a interface for applications.
