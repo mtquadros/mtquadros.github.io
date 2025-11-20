@@ -9,8 +9,8 @@ The code is private and available just for job interviews of the owner.
 
 ## About demonstrations
 The demonstrations will be available by video gif (if possivel) or
-nby I link to my youtube channel tehre are suppport fo audio, wich
-will be usefull por explaining the video.
+by I link (for embbeed) a youtube video where are suppport fo audio, and
+I will able to explain in the details.
 
 ## Notes: Some features until the moment,
 1. Any host in same local network can join the distributed group of hosts;
