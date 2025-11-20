@@ -8,19 +8,18 @@ The code is in C++ language.
 The code is private and available just for job interviews of the owner.
 
 ## About demonstrations
-I will try to maintain this page updated with the new features and
-try to show some screens demonstrations.
+The demonstrations will be available by video gif (if possivel) or
+nby I link to my youtube channel tehre are suppport fo audio, wich
+will be usefull por explaining the video.
 
 ## Notes: Some features until the moment,
 1. Any host in same local network can join the distributed group of hosts;
-2. Once a host joins the group it knows all others members and vice versa;
-3. If the member leaves the group it "forget" all other members and vice versa. 
+2. Once a host joins the group it knows all others members and the all the others new th new member;
+3. If the member leaves the group it "forget" all other members of the gruop and all other members of group "forget it".
+4. Once a host joins the group, the new leader elected 
 
 ## Work in progress,
-1. Fix the leader election
-2. Improve the information on the screen for debugging and demonstration of the
-features;
-3. Fix bugs;
-4. Implement new distributed building block features;
-5. Implement the fault tolerance to crash failures;
-6. Implement a interface for applications.
+1. Atomic Broadcast
+3. Implement new distributed building block features;
+4. Implement the fault tolerance to crash failures;
+5. Implement a interface for applications.
