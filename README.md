@@ -1,4 +1,4 @@
-0# Distributed Group System
+# Distributed Group System
 The goal of this project is to build a module that provide to group of hosts
 in the same LAN (Local Area Network) an API for programming for building
 distributed applications with crash fault tolerance.
