@@ -14,7 +14,7 @@ Linkedin: www.linkedin.com/in/mtquadros
 
 ## About demonstrations
 The demonstrations will be available by video whwich enough support for audio,
-So will able to make teh explanations.
+So will able to make the explanations.
 
 ## Notes: Some features until the moment,
 1. Any host in same local network can join the distributed group of hosts;
