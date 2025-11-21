@@ -1,12 +1,12 @@
-# Distributed Group System
+0# Distributed Group System
 The goal of this project is to build a module that provide to group of hosts
 in the same LAN (Local Area Network) an API for programming for building
 distributed applications with crash fault tolerance.
-Each host atached to teh module is able to participe of the distributed 
+Each host atached to the module is able to participe of the distributed 
 system group.
 
 ## About the code
-The code is in C++ language.
+The code is in C++ language (at least 11).
 The code is private and available just for job interviews of the owner.
 If you have insterest, please contat me.
 E-mail: mauricio@google.com
