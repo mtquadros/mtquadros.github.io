@@ -13,9 +13,8 @@ E-mail: mauricio@google.com
 Linkedin: www.linkedin.com/in/mtquadros
 
 ## About demonstrations
-The demonstrations will be available by video gif (if possivel) or
-by I link (for embbeed) a youtube video where are suppport fo audio, and
-I will able to explain in the details.
+The demonstrations will be available by video whwich enough support for audio,
+So will able to make teh explanations.
 
 ## Notes: Some features until the moment,
 1. Any host in same local network can join the distributed group of hosts;
