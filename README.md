@@ -6,7 +6,9 @@ distributed applications with crash fault tolerance.
 ## About the code
 The code is in C++ language.
 The code is private and available just for job interviews of the owner.
-Contact:www.google.com/mtqaudros
+If you have insterest, please contat me.
+E-mail: mauricio@google.com
+Linkedin: www.linkedin.com/in/mtquadros
 
 ## About demonstrations
 The demonstrations will be available by video gif (if possivel) or
