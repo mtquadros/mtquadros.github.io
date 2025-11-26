@@ -20,7 +20,7 @@ So will able to make the explanations.
 1. Any host in same local network can join the distributed group of hosts;
 2. Once a host joins the group, it knows all others members and the all the others knows the new member;
 3. If the member leaves the group, it "forget" all other members of the gruop and all other members of group "forget it".
-4. Once a host joins the group, the new leader elected 
+4. Once a host joins the group, the new leader is elected 
 
 ## Work in progress,
 1. Atomic Broadcast
