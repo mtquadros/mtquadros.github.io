@@ -18,8 +18,8 @@ So will able to make the explanations.
 
 ## Notes: Some features until the moment,
 1. Any host in same local network can join the distributed group of hosts;
-2. Once a host joins the group it knows all others members and the all the others new th new member;
-3. If the member leaves the group it "forget" all other members of the gruop and all other members of group "forget it".
+2. Once a host joins the group, it knows all others members and the all the others knows the new member;
+3. If the member leaves the group, it "forget" all other members of the gruop and all other members of group "forget it".
 4. Once a host joins the group, the new leader elected 
 
 ## Work in progress,
