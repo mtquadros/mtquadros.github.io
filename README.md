@@ -12,7 +12,7 @@ The code is private and available just for job interviews of the owner.
 ## About demonstrations
 I will try to maintain this page updated with the new features.
 
-![Demonstration](demonstration.gif)
+![Demonstration](https://github.com/mtquadros/distributed_system_mid/blob/master/demonstration.gif)
 
 ## Notes: Some features until the moment,
 1. Any host in same local network can join and leave the distributed group of hosts;
