@@ -1,29 +1,34 @@
 # Distributed Group System
-The goal of this project is build a software that provide to group of hosts
-in the same LAN (Local Area Network) an API for programming for building
-distributed applications with crash fault tolerance.
-Each host atached to the software is able to participe of the distributed 
-system group.
+The goal of this project is build a module that implements a group of hosts
+in the same LAN (Local Area Network) that connect with each other via UDP multicast messages
+using Boost Library API to create a group that supports join and leave the group.
+Despite de UDP is not communication protocol that supports confiability and ordering of messages,
+this project, until now, works as a experiment of group API of Boost libraries.
+
 
 ## About the code
-The code is in C++ language (at least 11).
 The code is private and available just for job interviews of the owner.
-If you have insterest, please contat me.
-E-mail: mauricio@google.com
-Linkedin: www.linkedin.com/in/mtquadros
 
 ## About demonstrations
-The demonstrations will be available by video whwich enough support for audio,
-So will able to make the explanations.
+I will try to maintain this page updated with the new features.
+
+![Demonstration](demonstration.gif)
 
 ## Notes: Some features until the moment,
-1. Any host in same local network can join the distributed group of hosts;
-2. Once a host joins the group, it knows all others members and the all the others knows the new member;
-3. If the member leaves the group, it "forget" all other members of the gruop and all other members of group "forget it".
-4. Once a host joins the group, the new leader is elected 
+1. Any host in same local network can join and leave the distributed group of hosts;
+2. Once a host joins the group it knows all others members and vice versa and a new leader is elected;
+3. The leader has alwas the biggest UUID;
+4. Once the member leaves the group it "forget" all other members and the other members forget it.
+5. The command join is actived by typing number, as well command leave by typing 2.
+
+## About demostration
+1. If the demonstration is not clear because the size, i just zoom the screen. Lost the definition
+   but still can be observable.
+
 
 ## Work in progress,
-1. Atomic Broadcast
+1. Improve the information on the screen for debugging and demonstration of the
+features;
+2. Fix bugs;
 3. Implement new distributed building block features;
-4. Implement the fault tolerance to crash failures;
-5. Implement a interface for applications.
+4. Implement a interface for applications.
