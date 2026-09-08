@@ -1,27 +1,27 @@
-# Distributed Group System
+# Distributed Group System experiment
 The goal of this project is build a module that implements a group of hosts
 in the same LAN (Local Area Network) that connect with each other via UDP multicast messages
 using Boost Library API to create a group that supports join and leave the group.
 Despite de UDP is not communication protocol that supports confiability and ordering of messages,
-this project, until now, works as a experiment of group API of Boost libraries.
+this project, works succefully as an experiment.
 
 
 ## About the code
 The code is private and available just for job interviews of the owner.
 
 ## About demonstrations
-I will try to maintain this page updated with the new features.
+Here we have three terminals running your own process.
 
 ![Demonstration](https://github.com/mtquadros/distributed_system_mid/blob/master/demonstration.gif)
 
 ## Notes: Some features until the moment,
 1. Any host in same local network can join and leave the distributed group of hosts;
 2. Once a host joins the group it knows all others members and vice versa and a new leader is elected;
-3. The leader has alwas the biggest UUID;
+3. The leader has always the biggest UUID;
 4. Once the member leaves the group it "forget" all other members and the other members forget it.
-5. The command join is actived by typing number, as well command leave by typing 2.
+5. The command join is activated by typing number, as well command leave by typing 2.
 
-## About demostration
+## About demonstration
 1. If the demonstration is not clear because the size, i just zoom the screen. Lost the definition
    but still can be observable.
 
